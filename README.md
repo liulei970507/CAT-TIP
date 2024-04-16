@@ -13,7 +13,7 @@ If you're using this code in a publication, please cite our paper.
           publisher={IEEE}
         }
   
-### System Requirements is same as [RT-MDNet](https://github.com/IlchaeJung/RT-MDNet).
+### System Requirements are the same as [RT-MDNet](https://github.com/IlchaeJung/RT-MDNet).
 
 **Pretrained Model and results**
 If you only run the tracker, you can use the pretrained model: 
